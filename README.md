@@ -1,3 +1,3 @@
-# Data Science Track Team 38 - Build Week Project
+# Build Week Project - Data Science Track Team 38
 
 # Kickstarter Success
